@@ -15,3 +15,7 @@ server/
 structure.txt
 seed.js
 seed-itineraries.js
+
+ai-engine/
+venv/
+*/venv/
