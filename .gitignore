@@ -1,0 +1,8 @@
+flask-app/.env
+flask-app/uploads/
+flask-app/__pycache__/
+client/.env
+client/node_modules/
+client/build/
+.DS_Store
+*.log
